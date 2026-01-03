@@ -4,7 +4,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-Based-orange.svg)](https://numpy.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 
@@ -75,7 +74,7 @@ core-machine-learning/
 
 ---
 
-## What Makes This Portfolio Stand Out
+## What This Repo consists
 
 ### Deep Understanding
 - Complete mathematical derivations
@@ -164,11 +163,6 @@ This is a personal learning portfolio. Feel free to:
 - GitHub: [@sreekaryerragunta](https://github.com/sreekaryerragunta)
 - Focus: Machine Learning, Data Science, AI Systems
 
----
-
-## License
-
-MIT License - feel free to use this for learning purposes.
 
 ---
 
