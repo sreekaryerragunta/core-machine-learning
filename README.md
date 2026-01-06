@@ -6,7 +6,7 @@ A comprehensive collection of **supervised learning algorithms** implemented fro
 
 ---
 
-## 📚 Repository Structure
+## Repository Structure
 
 ```
 core-machine-learning/
@@ -27,7 +27,7 @@ core-machine-learning/
 
 ---
 
-## 🎯 Algorithms Implemented (12 Total)
+## Algorithms Implemented (12 Total)
 
 ### Classification Algorithms (7)
 
@@ -114,11 +114,11 @@ core-machine-learning/
 
 ---
 
-## 🔬 What's Included
+## What's Included
 
 Each algorithm component contains:
 
-### 📖 Theory (`theory.md`)
+### Theory (`theory.md`)
 - **Mathematical foundations**: Equations, derivations, loss functions
 - **Algorithm intuition**: Why it works, geometric interpretation
 - **Hyperparameters**: What they control, how to tune
@@ -126,20 +126,20 @@ Each algorithm component contains:
 - **Comparison with alternatives**: vs other algorithms
 - **Key questions**: Interview-style deep understanding checks
 
-### 💻 Implementation (`*_from_scratch.ipynb`)
+### Implementation (`*_from_scratch.ipynb`)
 - **From-scratch NumPy**: No black-box sklearn for core logic
 - **Step-by-step**: Clear progression from theory to code
 - **Comments**: Every major step explained
 - **sklearn comparison**: Validate correctness
 - **Performance matching**: Our implementations match sklearn
 
-### 📊 Demonstrations
+### Demonstrations
 - **Visual explanations**: Decision boundaries, convergence curves
 - **Real-world datasets**: Iris, breast cancer, etc.
 - **Hyperparameter effects**: Learning rate, regularization, tree depth
 - **Practical insights**: What actually matters in practice
 
-### 🛠️ Utilities (`utils.py`)
+### Utilities (`utils.py`)
 - Reusable helper functions
 - Distance/similarity metrics
 - Cost/loss functions
@@ -147,7 +147,7 @@ Each algorithm component contains:
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # Clone repository
@@ -177,7 +177,7 @@ sys.path.append('07_logistic_regression')
 
 ---
 
-## 📊 Algorithm Comparison
+## Algorithm Comparison
 
 ### Classification Algorithms
 
@@ -202,7 +202,7 @@ sys.path.append('07_logistic_regression')
 
 ---
 
-## 🎓 Learning Path
+## Learning Path
 
 ### Beginner (Start Here)
 1. **Logistic Regression** - Classification foundation
@@ -221,7 +221,7 @@ sys.path.append('07_logistic_regression')
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python 3.8+**
 - **NumPy**: Core matrix operations
@@ -232,7 +232,7 @@ sys.path.append('07_logistic_regression')
 
 ---
 
-## 📝 Design Philosophy
+## Design Philosophy
 
 ### 1. **Theory First, Code Second**
 - Understand math before implementing
@@ -258,7 +258,7 @@ sys.path.append('07_logistic_regression')
 
 ---
 
-## 🎯 Repository Goals
+## Repository Goals
 
 1. **Deep Understanding**: Not just "what" but "why" and "how"
 2. **Interview Preparation**: Explain algorithms confidently
@@ -268,7 +268,7 @@ sys.path.append('07_logistic_regression')
 
 ---
 
-## 📈 Key Metrics
+## Key Metrics
 
 - **12 Algorithms**: Classification (7) + Regression (4)
 - **~2MB**: Total notebook outputs with visualizations
@@ -277,14 +277,14 @@ sys.path.append('07_logistic_regression')
 
 ---
 
-## 🔗 Related Repositories
+## Related Repositories
 
 - **[unsupervised-learning](https://github.com/sreekaryerragunta/unsupervised-learning)**: Clustering & dimensionality reduction (DBSCAN, t-SNE, UMAP, etc.)
 - **[ml-math-from-scratch](https://github.com/sreekaryerragunta/ml-math-from-scratch)**: Mathematical foundations (Linear Regression, Logistic Regression, PCA, etc.)
 
 ---
 
-## 📚 Resources & References
+## Resources & References
 
 ### Books
 - "The Elements of Statistical Learning" - Hastie, Tibshirani, Friedman
@@ -298,13 +298,7 @@ sys.path.append('07_logistic_regression')
 
 ---
 
-## 📄 License
-
-MIT License - feel free to learn from and build upon this work.
-
----
-
-## 👤 Author
+## Author
 
 **Sreekar Yerragunta**
 
